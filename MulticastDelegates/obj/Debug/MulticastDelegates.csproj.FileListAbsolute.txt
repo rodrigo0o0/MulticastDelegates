@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.exe.config
+C:\Users\sande\source\repos\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+C:\Users\sande\source\repos\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+C:\Users\sande\source\repos\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.exe
+C:\Users\sande\source\repos\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.pdb
